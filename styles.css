@@ -93,3 +93,14 @@ footer {
 }
 
 
+h9 {
+
+
+    color:red;
+}
+
+
+.test99 h1, .test99 p, .test99 h2 {
+
+    color:blue;
+}
